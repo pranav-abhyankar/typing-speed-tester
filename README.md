@@ -35,7 +35,7 @@ It helps users improve typing speed and accuracy with **real-time analytics**, *
 ## ⚙️ Installation & Quick Start
 
 1. Download or clone the repository to your local machine:
-   - `git clone https://github.com/<your-username>/Elite-Typing-Speed-Tester-Pro.git`  
+   - `git clone https://github.com/pranav-abhyankar/Elite-Typing-Speed-Tester-Pro.git`  
      *(or simply download the ZIP and extract)*
 
 2. Ensure the three files (`speed_tester.html`, `styles.css`, `script.js`) are in the same directory.
