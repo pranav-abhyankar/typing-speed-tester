@@ -1,7 +1,7 @@
 # ⚡ Elite Typing Speed Tester Pro
 
 Elite Typing Speed Tester Pro is a **modern web-based typing trainer** built with **HTML, CSS & JavaScript**.  
-It helps users improve typing speed and accuracy with **real-time analytics**, **challenges**, **achievements**, **persistent history**, and a clean responsive UI.
+It helps users improve typing speed and accuracy with **real-time analytics**, **challenges**, **achievements**, **persistent history**, and a clean, responsive UI.
 
 ---
 
